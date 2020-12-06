@@ -196,7 +196,7 @@ h6{ font-size: 16px }
 	display: grid;
 	align-content: center;
 	grid-template-columns: auto auto auto;
-	row-gap:20px;
+	row-gap:50px;
 	column-gap: 50px;
 }
 
