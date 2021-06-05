@@ -52,6 +52,11 @@ ul{
 	list-style: none;
 }
 
+#disease-detector-image{
+    width: 400px;
+    object-fit: scale-down;
+}
+
 h1{ font-size: 56px }
 h2{ font-size: 36px }
 h3{ font-size: 28px }
@@ -204,7 +209,7 @@ h6{ font-size: 16px }
     background-color: var(--secondaryColor);
     color: black;   
     display: grid;
-    grid-template-columns: repeat(auto-fit, 450px);
+    grid-template-columns: repeat(auto-fit, 400px);
     gap: 20px;
     justify-content: center;
     padding-bottom: 10px;
